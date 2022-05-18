@@ -1,3 +1,9 @@
+/*
+Nombre: Lopez Mercado Brayan
+Matrícula: 1280838
+Materia: Programación Orientada a Objetos 
+Práctica 10: Polimorfismo
+*/
 
 public class Cougar extends Animal {
 	public Cougar(String name,int age){
